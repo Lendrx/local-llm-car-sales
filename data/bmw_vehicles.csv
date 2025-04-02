@@ -1,0 +1,63 @@
+Model,Series,Year,Price,Mileage,Fuel_Type,Transmission,Color,Region,Sale_Date,Customer_Satisfaction,Dealership,Features,Performance_Rating,Days_In_Stock
+X5,SUV,2023,79900,15,Diesel,Automatic,Alpine White,North,2023-12-15,4.8,BMW München Nord,"Leather seats, Navigation, Panoramic roof, Head-up display",9.2,23
+320i,3 Series,2022,45800,3500,Petrol,Automatic,Black Sapphire,South,2023-11-20,4.5,BMW Hamburg,"Sports package, LED headlights, Parking assistant",8.7,45
+M4 Competition,M Series,2023,96500,1200,Petrol,Automatic,Sao Paulo Yellow,West,2023-10-05,4.9,BMW Frankfurt,"M Performance Package, Carbon fiber trim, Harman Kardon sound system",9.8,12
+530e,5 Series,2022,62400,5600,Hybrid,Automatic,Mineral Grey,East,2023-12-03,4.3,BMW Berlin,"Executive package, Wireless charging, Gesture control",8.5,38
+X3,SUV,2021,52500,21500,Petrol,Automatic,Phytonic Blue,Central,2023-11-15,4.7,BMW Cologne,"Panoramic roof, Heated seats, Driving Assistant",8.9,60
+i4 eDrive40,Electric,2023,67900,1800,Electric,Automatic,Mineral White,North,2023-09-28,4.6,BMW Munich South,"Premium package, Comfort access, BMW Live Cockpit Professional",9.0,30
+X7,SUV,2023,98700,800,Diesel,Automatic,Carbon Black,South,2023-10-10,4.7,BMW Stuttgart,"Luxury seating, Six-zone climate control, Bowers & Wilkins sound system",9.1,15
+220i,2 Series,2022,39500,12000,Petrol,Manual,Melbourne Red,West,2023-11-01,4.2,BMW Dusseldorf,"Sport line, Parking sensors, Digital key",8.2,90
+M3 Competition,M Series,2023,89800,2500,Petrol,Automatic,Isle of Man Green,East,2023-12-20,4.9,BMW Dresden,"M Drive Professional, Carbon bucket seats, Competition package",9.7,18
+i7 xDrive60,Electric,2023,139900,500,Electric,Automatic,Tanzanite Blue,Central,2023-09-15,4.8,BMW Frankfurt,"Executive Lounge, Theatre Screen, Automatic doors",9.5,21
+iX M60,Electric,2023,129900,1500,Electric,Automatic,Storm Bay,North,2023-10-22,4.7,BMW Hamburg,"Bowers & Wilkins Diamond Surround Sound, Sky Lounge panoramic glass roof",9.6,28
+330e,3 Series,2022,54600,9800,Hybrid,Automatic,Portimao Blue,South,2023-11-07,4.4,BMW Munich,"M Sport package, Adaptive suspension, Digital dashboard",8.6,42
+X4 M40i,SUV,2022,69800,11200,Petrol,Automatic,Brooklyn Grey,West,2023-12-05,4.6,BMW Berlin,"M aerodynamics package, Adaptive LED headlights, 20-inch wheels",9.0,35
+Z4 M40i,Roadster,2023,72500,3800,Petrol,Automatic,Frozen Grey,East,2023-10-18,4.8,BMW Leipzig,"Comfort package, Wind deflector, Ambient lighting",9.2,40
+X6,SUV,2022,85700,7500,Diesel,Automatic,Arctic Grey,Central,2023-11-30,4.5,BMW Cologne,"Individual high-gloss Shadow Line, Laser headlights, Acoustic glass",8.8,32
+128ti,1 Series,2022,42800,15600,Petrol,Manual,Misano Blue,North,2023-09-10,4.3,BMW Hannover,"Sport seats, M Sport steering wheel, Navigation Plus",8.4,75
+420i Convertible,4 Series,2023,62900,4200,Petrol,Automatic,San Remo Green,South,2023-12-12,4.7,BMW Stuttgart,"Neck warmer, Acoustic hood, Convertible pack",8.9,25
+M2 Competition,M Series,2022,68500,8900,Petrol,Manual,Hockenheim Silver,West,2023-10-30,4.8,BMW Frankfurt,"M Sport brakes, Carbon fiber interior trim, Adaptive headlights",9.4,29
+X5 xDrive45e,SUV,2022,74800,12300,Hybrid,Automatic,Tanzanite Blue,East,2023-11-25,4.6,BMW Dresden,"Off-road package, Third row seating, BMW Digital Key",9.0,36
+840i Gran Coupe,8 Series,2023,99500,1900,Petrol,Automatic,Dravit Grey,Central,2023-09-20,4.8,BMW Munich,"BMW Individual Merino leather, Glass application, Comfort package",9.3,19
+X3 M Competition,M Series,2023,84900,3200,Petrol,Automatic,Toronto Red,North,2023-12-18,4.7,BMW Hamburg,"M Competition Package, Carbon exterior package, Adaptive M suspension",9.5,22
+330i Touring,3 Series,2022,52600,14500,Petrol,Automatic,Mediterranean Blue,South,2023-10-08,4.5,BMW Berlin,"Business package, Panoramic glass roof, Parking Assistant Plus",8.7,48
+M5 Competition,M Series,2022,112800,6800,Petrol,Automatic,Marina Bay Blue,West,2023-11-22,4.9,BMW Cologne,"Executive package, M Driver's Package, Bowers & Wilkins Diamond",9.8,15
+X1 xDrive25e,SUV,2023,45900,2800,Hybrid,Automatic,Alpine White,East,2023-10-15,4.4,BMW Leipzig,"Comfort package, Panoramic roof, Driving Assistant",8.5,55
+i4 M50,Electric,2023,75800,1200,Electric,Automatic,Frozen Portimao Blue,Central,2023-12-07,4.8,BMW Frankfurt,"Technology package, Harman Kardon, M Sport package",9.4,27
+118i,1 Series,2021,32500,25600,Petrol,Manual,Melbourne Red,North,2023-09-25,4.2,BMW Munich,"Advantage package, Sport seats, LED headlights",8.0,85
+X5 M,M Series,2023,118900,900,Petrol,Automatic,Manhattan Green,South,2023-11-28,4.9,BMW Stuttgart,"Competition Package, Full Merino leather, M Driver's Package",9.7,14
+530d,5 Series,2022,65800,10500,Diesel,Automatic,Bluestone Metallic,West,2023-10-12,4.6,BMW Dusseldorf,"Innovation package, Comfort seats with memory, BMW Live Cockpit",8.8,39
+X2 M35i,SUV,2022,55600,12800,Petrol,Automatic,Misano Blue,East,2023-12-01,4.5,BMW Berlin,"M Sport X package, 20-inch M wheels, M Sport seats",9.0,45
+740i,7 Series,2023,105800,2500,Petrol,Automatic,Oxide Grey,Central,2023-09-18,4.7,BMW Munich,"Executive Lounge, Panoramic Sky Lounge LED roof, BMW Touch Command",9.2,21
+M8 Competition,M Series,2023,158900,700,Petrol,Automatic,Brands Hatch Grey,North,2023-11-05,4.9,BMW Frankfurt,"M Carbon exterior package, M Carbon ceramic brakes, M Driver's Package",9.9,10
+Z4 sDrive30i,Roadster,2022,61500,5700,Petrol,Automatic,Frozen Dark Silver,South,2023-10-25,4.7,BMW Hamburg,"M Sport package, Neck warmer, Harman Kardon",9.1,35
+318d,3 Series,2021,41800,22300,Diesel,Manual,Black Sapphire,West,2023-12-10,4.3,BMW Cologne,"Business package, Parking Assistant, LED headlights",8.2,68
+X4,SUV,2022,58700,11500,Diesel,Automatic,Carbon Black,East,2023-09-30,4.5,BMW Dresden,"xLine, Vernasca leather, Panoramic glass roof",8.7,49
+i3s,Electric,2021,42500,18600,Electric,Automatic,Fluid Black,Central,2023-11-18,4.4,BMW Leipzig,"Suite interior world, Park distance control, Navigation system",8.6,42
+420d,4 Series,2022,53600,12800,Diesel,Automatic,Sunset Orange,North,2023-10-20,4.5,BMW Hannover,"M Sport package, Connected Package Professional, Comfort Access",8.8,38
+M135i,1 Series,2023,51900,3700,Petrol,Automatic,Misano Blue,South,2023-12-08,4.7,BMW Stuttgart,"Technology package, Panoramic glass sunroof, BMW Live Cockpit Professional",9.2,26
+X6 M Competition,M Series,2023,131800,1500,Petrol,Automatic,Ametrine Metallic,West,2023-09-22,4.8,BMW Frankfurt,"BMW Individual full Merino leather, M Driver's Package, Sky Lounge",9.6,17
+520i,5 Series,2021,48900,28500,Petrol,Automatic,Bernina Grey,East,2023-11-12,4.4,BMW Berlin,"Business package, Parking Assistant, LED headlights",8.5,58
+iX3,Electric,2022,69800,9800,Electric,Automatic,Mineral White,Central,2023-10-28,4.6,BMW Munich,"Impressive package, Adaptive suspension, Harman Kardon",9.0,34
+X5 M50i,SUV,2022,92500,8200,Petrol,Automatic,Phytonic Blue,North,2023-12-14,4.7,BMW Hamburg,"M Sport package, Bowers & Wilkins, Driving Assistant Professional",9.3,24
+220d Coupe,2 Series,2022,45800,14200,Diesel,Automatic,Thundernight Metallic,South,2023-09-05,4.5,BMW Cologne,"M Sport package, Navigation system Professional, Glass roof",8.7,56
+M240i,2 Series,2023,58900,2600,Petrol,Automatic,Brooklyn Grey,West,2023-11-24,4.8,BMW Dresden,"Harman Kardon, Adaptive M suspension, M Sport differential",9.4,20
+218i Gran Coupe,2 Series,2021,38500,19800,Petrol,Automatic,Storm Bay,East,2023-10-07,4.3,BMW Leipzig,"Sport Line, Navigation, LED headlights",8.3,72
+530i,5 Series,2023,63900,1900,Petrol,Automatic,Bluestone Metallic,Central,2023-11-29,4.7,BMW Munich,"Business package, Panoramic glass roof, 19-inch wheels",9.0,31
+X1,SUV,2021,42500,26500,Petrol,Automatic,Alpine White,North,2023-09-14,4.4,BMW Frankfurt,"xLine, Panoramic glass roof, Parking Assistant",8.4,64
+X3 M40i,SUV,2023,72900,1800,Petrol,Automatic,Dravit Grey,South,2023-12-02,4.8,BMW Hamburg,"M Sport package, 21-inch wheels, Harman Kardon",9.3,22
+i4 eDrive35,Electric,2023,62500,2100,Electric,Automatic,Brooklyn Grey,West,2023-10-16,4.6,BMW Berlin,"Premium package, Driving Assistant Professional, BMW IconicSounds Electric",9.1,29
+X7 M50i,SUV,2022,108500,7800,Petrol,Automatic,Carbon Black,East,2023-11-19,4.7,BMW Dresden,"Executive package, 6-seat configuration, Bowers & Wilkins",9.2,25
+330d,3 Series,2022,57900,11200,Diesel,Automatic,Tanzanite Blue,Central,2023-09-27,4.6,BMW Munich,"M Sport package, Technology package, Adaptive M suspension",8.9,41
+116d,1 Series,2021,31500,28600,Diesel,Manual,Melbourne Red,North,2023-10-24,4.2,BMW Hannover,"Advantage package, Navigation system, Park Distance Control",7.9,92
+M5 CS,M Series,2023,165900,950,Petrol,Automatic,Frozen Deep Green,South,2023-12-09,5.0,BMW Stuttgart,"M Carbon ceramic brakes, M Carbon bucket seats, BMW Laserlight",10.0,7
+X2,SUV,2021,42900,18700,Petrol,Automatic,Misano Blue,West,2023-09-19,4.4,BMW Cologne,"M Sport X package, Panoramic roof, Business package",8.6,62
+750i xDrive,7 Series,2022,119800,6200,Petrol,Automatic,Tanzanite Blue,East,2023-11-10,4.8,BMW Berlin,"Individual composition, Executive Lounge, Bowers & Wilkins",9.4,19
+i8 Roadster,Sports,2020,149500,8900,Hybrid,Automatic,Crystal White,Central,2023-10-14,4.9,BMW Frankfurt,"BMW i Blue accent, 20-inch wheels, Head-up display",9.5,28
+430i Convertible,4 Series,2022,65800,9200,Petrol,Automatic,Portimao Blue,North,2023-12-16,4.7,BMW Hamburg,"Luxury package, Neck warmer, Harman Kardon",9.0,33
+X4 M,M Series,2023,86900,2100,Petrol,Automatic,Toronto Red,South,2023-09-08,4.8,BMW Stuttgart,"Competition Package, Carbon exterior package, 21-inch wheels",9.6,15
+320d Touring,3 Series,2021,47900,24500,Diesel,Automatic,Mediterranean Blue,West,2023-11-27,4.4,BMW Cologne,"Business package, Panoramic glass roof, Driving Assistant",8.5,53
+X5 xDrive40i,SUV,2023,82500,2800,Petrol,Automatic,Arctic Grey,East,2023-10-02,4.7,BMW Dresden,"M Sport package, Panoramic roof, Harman Kardon",9.2,27
+M340i,3 Series,2022,69800,11600,Petrol,Automatic,Tanzanite Blue,Central,2023-12-11,4.8,BMW Munich,"Technology package, Premium package, Adaptive M suspension",9.4,30
+840i Convertible,8 Series,2023,105900,1800,Petrol,Automatic,Barcelona Blue,North,2023-09-12,4.7,BMW Frankfurt,"BMW Individual Merino leather, Neck warmer, Bowers & Wilkins",9.3,22
+X5 Protection VR6,SUV,2023,215000,500,Petrol,Automatic,Black Sapphire,South,2023-11-03,4.9,BMW Munich,"Armored protection, Executive seating, Custom interior",9.8,5
