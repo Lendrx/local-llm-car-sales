@@ -1,6 +1,6 @@
-# BMW LLM Projekt
+# Fahrzeugdaten - LLM Projekt
 
-Dieses Projekt vergleicht zwei Methoden, um LLMs für BMW-Fahrzeugdaten zu optimieren.
+Dieses Projekt vergleicht zwei Methoden, um LLMs für Fahrzeugdaten zu optimieren.
 
 ## Was macht das Projekt?
 
