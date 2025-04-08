@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Vergleichsanalyse: RAG vs. Finetuning
 -------------------------------------
