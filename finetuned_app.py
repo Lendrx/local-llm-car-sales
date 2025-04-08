@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Finetuned-Modell-Anwendung für BMW-Fahrzeugdaten
 -----------------------------------------------
